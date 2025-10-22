@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourtReservation_Api", "CourtReservation_Api\CourtReservation_Api.csproj", "{8C6804CE-F371-4A0B-BC1A-5FA81D141229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourtReservation_Infraestructure", "CourtReservation_Infraestructure\CourtReservation_Infraestructure.csproj", "{A81164CB-14BB-4EA8-8C16-E4561D91FBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourtReservation_Core", "CourtReservation_Core\CourtReservation_Core.csproj", "{18D6A751-17F7-41F5-BC43-E4C5C21AB970}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6804CE-F371-4A0B-BC1A-5FA81D141229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6804CE-F371-4A0B-BC1A-5FA81D141229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6804CE-F371-4A0B-BC1A-5FA81D141229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6804CE-F371-4A0B-BC1A-5FA81D141229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81164CB-14BB-4EA8-8C16-E4561D91FBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81164CB-14BB-4EA8-8C16-E4561D91FBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81164CB-14BB-4EA8-8C16-E4561D91FBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81164CB-14BB-4EA8-8C16-E4561D91FBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D6A751-17F7-41F5-BC43-E4C5C21AB970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D6A751-17F7-41F5-BC43-E4C5C21AB970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D6A751-17F7-41F5-BC43-E4C5C21AB970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D6A751-17F7-41F5-BC43-E4C5C21AB970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AFF83C-E580-4282-B185-6DC7735FCC9D}
+	EndGlobalSection
+EndGlobal
